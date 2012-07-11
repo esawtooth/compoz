@@ -1,0 +1,17 @@
+This is where we shall define the tuning systems compoz will use.
+There are several types including pythogorean, well tempered, meantone
+etc.
+
+The objective of a tuning class is to specify a set of notes with
+corresponding frequencies that shall be used as the basis for our music.
+
+These notes shall define the base scale for the composition.
+
+
+Assumptions:
+
+There will be n notes in a tuning each of different frequency (0<n).
+There exists a base note for the tuning that shall always be notated as
+"zero".
+Each tuning system has a time period wherein the "zero" repeats.
+
