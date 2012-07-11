@@ -1,0 +1,8 @@
+compoz
+
+compoz is a Music Composition Framework that specifies the basic elements
+on music (based on the western framework) in a programmatic fashion
+including scales, chords, rhythm elements etc. The goal is to be able to
+describe a piece of music that one expects to compose with some degree of
+vagueness and allow it to help compose the piece within that definition
+with human input. compoz is NOT about computerized creativity.
